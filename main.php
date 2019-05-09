@@ -23,7 +23,7 @@
 			}
 		?>
 		<!-- Wrapper -->
-		<div id="votes"></div>
+		<div id="votes" class=""></div>
 			<div id="wrapper">
 
 				<!-- Intro -->
